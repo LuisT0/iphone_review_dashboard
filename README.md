@@ -36,7 +36,7 @@ dataset/
 ## 📊 Dashboard en Looker Studio
 
 🔗 **Dashboard completo:**  
-_Agrega aquí el enlace una vez que lo publiques_
+_(https://lookerstudio.google.com/s/teS199j9Gyk)_
 
 El dashboard se compone de:
 
